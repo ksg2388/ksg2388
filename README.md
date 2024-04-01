@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=F4D18D&height=300&section=header&text=Welcome%20to-nl-SangGeun's%20Github%20👋&fontSize=84&animation=fadeIn&fontColor=0123B4" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=F4D18D&height=300&section=header&text=Welcome%20to-nl-SangGeun's%20Github%20👋&fontSize=48&animation=fadeIn&fontColor=0123B4" />
 </div>
 
 <h3>🛠 Tech Stack</h3>
